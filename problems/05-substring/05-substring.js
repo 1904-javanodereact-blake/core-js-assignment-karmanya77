@@ -16,4 +16,4 @@ function substring(someStr, startIndex, endIndex) {
 }
 
 let str = 'hello world';
-console.log(substring(str,2,5));
+console.log(substring(str,1,5));
